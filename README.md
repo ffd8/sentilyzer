@@ -1,7 +1,7 @@
 # sentilyzer
 
-A simple text sentiment analysis API with endpoints based on this great tutorial:  
-[Building a sentiment analysis app with Node.js](https://blog.logrocket.com/sentiment-analysis-node-js/)
+A simple text sentiment analysis API with GET endpoints based on this great tutorial:  
+[Building a sentiment analysis app with Node.js](https://blog.logrocket.com/sentiment-analysis-node-js/) by [ebenezerdon](https://github.com/ebenezerdon/node_nlp_sentiment_analysis)
 
 ## usage
 
