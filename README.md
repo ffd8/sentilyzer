@@ -15,3 +15,6 @@ A simple text sentiment analysis API with GET endpoints based on this great tuto
 - `npm install`
 - `npm start`
 - [http://localhost:3000](http://localhost:3000?q=cool)
+
+## source code
+- [github](https://github.com/ffd8/sentilyzer)
